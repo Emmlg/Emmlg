@@ -3,6 +3,6 @@
 
 
 
-- 🌱 I’m currently learning Python with Crash Course book
-- 🤔 I’m looking for help with GUI on java ,some guide to star🧐?
+- 🌱 I’m currently learning HTML and CSS from Scrash 
+- 🤔 I’m looking for  projects ideas🧐?
 
