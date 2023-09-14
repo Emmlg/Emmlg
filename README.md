@@ -3,6 +3,6 @@
 
 
 
-- 🌱 I’m currently learning HTML and CSS from Scrash 
+- 🌱 I’m currently learning Advance Java and Hibernate
 - 🤔 I’m looking for  projects ideas🧐?
 
