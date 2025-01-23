@@ -8,7 +8,7 @@ Estudiante de Ingeniería en Sistemas Computacionales 🚀 | Aprendiendo Spring 
 
 Soy un apasionado estudiante de Ingeniería en Sistemas Computacionales que actualmente está sumergido en el mundo de **Spring Boot**. Estoy constantemente buscando nuevos retos y formas de mejorar mis habilidades, ¡y qué mejor que compartir mi aprendizaje con ustedes!
 
-```plaintext
+
 🌱 Actualmente estoy aprendiendo: Java avanzado, Hibernate y Spring Boot.
 🤖 Me encanta trabajar en proyectos que involucren backend y bases de datos.
 💻 Tecnologías que me gustan: Java, Spring Boot, Hibernate, PostgreSQL, REST APIs.
