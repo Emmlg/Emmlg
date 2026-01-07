@@ -1,39 +1,53 @@
-# ¡Hola! Soy Emmanuel 👋
+# Hola, soy Emmanuel 👋
 
-Estudiante de Ingeniería en Sistemas Computacionales 🚀 | Aprendiendo Spring Boot y más ⚡
+Desarrollador Backend con formación en Ingeniería en Sistemas y experiencia trabajando con servicios backend en entornos reales.
 
 ---
 
-### 🔥 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy un apasionado estudiante de Ingeniería en Sistemas Computacionales que actualmente está sumergido en el mundo de **Spring Boot**. Estoy constantemente buscando nuevos retos y formas de mejorar mis habilidades, ¡y qué mejor que compartir mi aprendizaje con ustedes!
+Me enfoco en el desarrollo de **APIs REST claras y mantenibles** utilizando **Java y Spring Boot**.  
+He trabajado en servicios backend que incluyen autenticación, mantenimiento y creación de endpoints, integraciones externas y documentación técnica.
 
+Me interesa escribir código ordenado, fácil de entender y bien estructurado, así como colaborar de forma cercana con frontend para construir APIs útiles y bien definidas.
 
-🌱 Actualmente estoy aprendiendo: Java avanzado, Hibernate y Spring Boot.
-🤖 Me encanta trabajar en proyectos que involucren backend y bases de datos.
-💻 Tecnologías que me gustan: Java, Spring Boot, Hibernate, PostgreSQL, REST APIs.
-🔍 Estoy buscando: Ideas para proyectos interesantes que me ayuden a seguir aprendiendo y creciendo en desarrollo backend.
-🌍 Conectemos: ¡Siempre abierto a colaborar y aprender juntos!
+---
 
-### 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías
 
-- **Lenguajes**:
-  - Java
-  - tecnologías web (JavaScript, HTML, CSS)
+### Lenguajes y Frameworks
+- Java  
+- Spring Boot  
+- Spring Data JPA  
+- Hibernate  
 
-- **Frameworks**:
-  - Spring Boot (En aprendizaje)
-  - Hibernate
+### Bases de datos
+- MySQL  
+- PostgreSQL  
 
-- **Bases de datos**:
-  - PostgreSQL
-  - MySQL
+### Backend y APIs
+- APIs REST  
+- Autenticación y autorización  
+- Documentación con Swagger / OpenAPI  
 
-- **Herramientas de desarrollo**:
-  - Git
-  - Apache Netbeans
+### Herramientas
+- Git / GitHub  
+- Postman  
+- Docker (básico)  
+- IntelliJ IDEA  
+- Maven / Gradle  
 
+---
 
-- **Otras tecnologías**:
-  - Maven
+## 📌 En qué estoy trabajando
 
+- Mejorar mis fundamentos en backend y diseño de APIs  
+- Profundizar en microservicios  
+- Escribir código más mantenible y estructurado  
+- Aprender mejores prácticas de despliegue
+
+---
+
+## 🤝 Contacto
+
+- GitHub: https://github.com/emmmlg
